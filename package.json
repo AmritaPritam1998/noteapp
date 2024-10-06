@@ -10,10 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@uiw/react-color-circle": "^2.3.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-modal": "^3.16.1",
-    "react-overlays": "^5.2.1"
+    "react-overlays": "^5.2.1",
+    "react-router-dom": "^6.26.2",
+    "react-uuid": "^2.0.0",
+    "uuid": "^10.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
