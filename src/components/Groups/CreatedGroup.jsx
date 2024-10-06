@@ -4,7 +4,7 @@ import styles from "./CreatedGroup.module.css"
 
 const CreatedGroup = ({groupName,upperCaseName,color,onClick}) => {
 
-  // assigning color prop based on user Selection
+  //  color prop based on user Selection
   const circleColor = {
     backgroundColor: color
   }
@@ -21,4 +21,4 @@ const CreatedGroup = ({groupName,upperCaseName,color,onClick}) => {
   )
 }
 
-export default CreatedGroup
+export default CreatedGroup;
